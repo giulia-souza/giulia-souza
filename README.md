@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a 💻 [Seu Nome ou @username]</h1>
+<h1 align="center">Oi, eu sou a 💻 Giulia!</h1>
 
 <p align="center">
   Estudante de <strong>Engenharia de Computação</strong> na <strong>UTFPR</strong><br>
@@ -45,16 +45,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giulia-souzaO&show_icons=true&theme=tokyonight&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulia-souza&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff"/>
 </div>
 
 ---
-
+<p align="center">
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-de-souza-leite)
 
 ---
 
