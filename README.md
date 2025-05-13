@@ -1,6 +1,6 @@
 <!-- Banner gigante super rosa -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Bem-vinda%20ao%20meu%20GitHub!%20💖&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Bem-vindo%20ao%20meu%20GitHub!%20💖&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <h1 align="center">Oi, eu sou a 💻 Giulia!</h1>
