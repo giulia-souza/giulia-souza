@@ -1,8 +1,9 @@
-<h1 align="center">Olá, eu sou a 💻 [Seu Nome ou @username]</h1>
+<h1 align="center">Oi, eu sou a 💻 [Seu Nome ou @username]</h1>
 
 <p align="center">
-  Estudante de <strong>Engenharia de Computação</strong> — 4º período<br>
-  Apaixonada por tecnologia, hardware, programação e café ☕<br>
+  Estudante de <strong>Engenharia de Computação</strong> na <strong>UTFPR</strong><br>
+  Atualmente no <strong>4º período</strong><br>
+  Apaixonada por tecnologia, arte e criatividade 🎨💡
 </p>
 
 <p align="center">
@@ -11,12 +12,21 @@
 
 ---
 
-### 💖 Sobre mim
+### ✨ Sobre mim
 
-- 🎓 Estudando **Engenharia de Computação**
-- 🚀 Focada em **desenvolvimento embarcado** e **sistemas digitais**
-- 💡 Curiosa por **automação**, **IoT** e **inteligência artificial**
-- 🌸 Gosto de aprender e compartilhar conhecimento
+- 🎓 Estudando **Engenharia de Computação** na **UTFPR**
+- 💖 Amo jogos em **pixel art**, música e arte no geral
+- 🔧 Gosto de **criar, explorar e aprender** coisas novas sempre!
+
+---
+
+### 👩‍💻 Interesses em programação
+
+- ⚙️ Circuitos digitais e sistemas embarcados com **ESP32**
+- 🔍 Estrutura de dados, grafos e **algoritmos**
+- 🧠 **POO (Programação Orientada a Objetos)** e boas práticas
+- 💡 Projetar soluções lógicas e eficientes
+- 🎮 Curiosa por jogos e **interação homem-máquina**
 
 ---
 
