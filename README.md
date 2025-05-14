@@ -9,7 +9,6 @@
   🎀 Estudante de <strong>Engenharia de Computação</strong> na <strong>UTFPR</strong><br>
   🎓 Atualmente no <strong>4º período</strong><br>
   ✨ Apaixonada por <strong>tecnologia</strong>, <strong>arte</strong> e <strong>criatividade</strong> 🎨💡<br>
-  🌸 Um toque de rosa no código sempre faz bem!
 </p>
 
 ---
